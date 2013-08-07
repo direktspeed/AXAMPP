@@ -1,5 +1,9 @@
-AXAMPP
+AXAMPP <- AXWP + SXSP
 ======
+
+User Voting for New Titel:
+##### AXWP (Advanced eXtended Webservices Package) <- Maybe only call the Development Stack this Name
+##### AXSP (Advanced eXtended Servers Package) <- maybe only call the Production Stack this Name
 
 Project AXAMPP (Advanced Extended Apache/MySQL/PHP/Perl - GIT/MariaDB/NGINX [Webserver Complet Package]) 
 

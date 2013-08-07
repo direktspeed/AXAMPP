@@ -20,14 +20,24 @@ In This Repository you will find alwas a Updated version of Original XAMPP as it
 But in Long Termn View we will drop XAMPP in Favor of our own structure that will raise userbility a lot.
 
 
-###### AXAMPP/ <- Here Goes AXAMPP Code
+###### AXAMPP/ 
+Here Goes AXAMPP Code
 In This folder will be all content of XAMPP and even the content of AXAMPP's files
-AXAMPP/NGINX/   <- Only a Placeholder but shows where nginx will be
-AXAMPP/conf/ <all AXAMPP Related conf goes here and has subfolders for the PreSettings overwrites XAMPP Conf files in the dirs replaces em by copys or symlinks on start
-AXAMPP/logs/ <- all Logs.
-AXAMPP/ds_logrotator <- Component that allows to use Direkt SPEED LogFile Handler Services to Examin your Logs and Save Storage
+
+##### AXAMPP/NGINX/   
+Only a Placeholder but shows where nginx will be
+##### AXAMPP/conf/ 
+all AXAMPP Related conf goes here and has subfolders for the PreSettings overwrites XAMPP Conf files in the dirs replaces em by copys or symlinks on start
+
+#### AXAMPP/logs/ 
+all Logs.
+
+#### AXAMPP/ds_logrotator 
+Component that allows to use Direkt SPEED LogFile Handler Services to Examin your Logs and Save Storage
 AXAMPP/axampp_control.sh (exe) Will get the Main Control Panel for AXAMPP but a Webmanager is Included Too!
 
+
+#### EXTRAS!
 more info and first Release follow soon Stay Tuned thx for Attention sorry for bad English Greetings !
 
 
